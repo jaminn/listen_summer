@@ -2,7 +2,7 @@
 List-en의 안드로이드 버젼입니다.  
 "!엑티비티 이동 예시.pptx"를 읽어 주세요 
   
-[Google Drive](http://bit.ly/2aOp8qS)
+[Goto Google Drive](http://bit.ly/2aOp8qS)
   
   
 기한 : 8월 15일 월요일 0:00  

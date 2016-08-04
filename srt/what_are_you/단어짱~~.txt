@@ -1,0 +1,405 @@
+body -> 몸
+
+kind of -> 약간, 어느 정도
+
+line -> 선
+
+stop -> 멈추다
+
+true -> 진실한
+
+yourself -> 너 자신
+
+remove -> 제거하다
+
+question -> 질문, 문제
+
+make sense -> 말이 되다, 이치에 맞다
+
+physical -> 육체적인, 물리적인
+
+existence -> 존재
+
+cell -> 세포
+
+trillion -> 1조; 엄청난 양
+
+at least -> 적어도, 최소한
+
+Milky Way -> 은하계, 은하수
+
+living being -> 생물
+
+machine -> n 기계; 기구; 조직, 구조
+
+thousand -> 천
+
+different -> 다른, 차이가 나는
+
+protein -> n. 단백질a. 단백질의
+
+consciousness -> 의식, 자각
+
+will -> 의지; 유언(장)
+
+purpose -> 목적, 의도
+
+still -> 아직도, 여전히
+
+individual -> 개인, 개인의
+
+Together -> 같이, 함께
+
+huge -> 거대한, 막대한
+
+structure -> 구조물
+
+job -> 일, 직업
+
+prepare -> 준비하다, 대비하다
+
+food -> 음식
+
+gather -> 모으다
+
+resource -> 자원, 수단
+
+transport -> 수송하다
+
+stuff -> 물건, 사물; 재료, 자료
+
+scan -> 조사하다
+
+environment -> 환경|상황|자연|분위기
+
+continue -> 계속하다
+
+stay alive -> 살아남다, 생존하다
+
+for a while -> 잠시 동안
+
+exist -> 존재하다, 생존하다
+
+without -> ~없이
+
+take away -> ~을 제거하다
+
+pile of -> 산더미, 다량의
+
+For example -> 예를 들어
+
+donate -> 기부하다, 기증하다
+
+organ -> 장기, 기관
+
+billion -> 10억
+
+live on -> ~에 의존하여 살다
+
+inside -> 안에
+
+someone else -> 그 밖에 다른 사람
+
+part of -> ~의 일부분
+
+die[dying] -> 죽다
+
+constantly -> 지속적으로
+
+lucky -> 운이 좋은
+
+enough to -> ~하기에 충분한
+
+become -> ~이 되다
+
+old -> 나이가 많은, 늙은
+
+cycle -> 순환, 주기
+
+through -> ~을 통하여
+
+roughly -> 대략, 거칠게
+
+million -> 백만
+
+consider -> 숙고하다, 고려하다
+
+snapshot -> 짤막한 정보, 즉석 사진
+
+break[broken] -> 깨뜨리다, 어기다
+
+very -> 바로그, ~조차도
+
+nature -> 특징, 성향
+
+unity -> 단결, 결속, 통일성, 조화
+
+cancer -> 암, 악성 종양
+
+cancel -> 취소하다, 중지하다
+
+biological -> 생물학적인
+
+social -> 사회적인
+
+contract -> 계약하다, 수축하다
+
+basically -> 기본적으로, 근본적으로
+
+immortal -> 불사의, 불멸의
+
+outside -> 외부, 밖의, 바깥쪽으로
+
+invader -> n. 침입자, 침략자
+
+put over[puts over] -> (무엇)을 (뭔가)로 덮다
+
+argue -> 논쟁하다, 주장하다
+
+another -> 또 다른
+
+entity -> 독립체
+
+thrive -> 번성하다, 무성하게 자라다
+
+blame -> 비난하다
+
+chilling -> 냉담한, 쌀쌀한
+
+story -> 이야기
+
+young -> 젊은, 어린
+
+patient -> 환자
+
+Usually -> 보통, 대개
+
+a few -> 약간의(셀 수 있는 명사랑)
+
+lab -> 실험실
+
+research -> 연구, 조사
+
+decade -> 10년간
+
+multiply[multiplied] -> 곱하다
+
+over and over again -> 되풀이하여, 반복하여
+
+countless -> ⓐ셀 수 없는, 무수한
+
+project -> 프로젝트, 계획
+
+save -> 구하다
+
+lives -> 생명,수명, 생물
+
+alive -> 살아있는
+
+overall -> 전체적으로, 일반적으로
+
+grow[grown] -> 성장하다
+
+ton -> 톤(무게의 단위)
+
+biomass -> 생물량, 바이오매스
+
+anyway -> 어쨌든
+
+Maybe -> 아마도
+
+information -> 정보
+
+contain -> 담고 있다, 포함하다
+
+DNA -> 유전자
+
+Until -> ~까지
+
+recently -> 요즈음, 최근
+
+believe -> [동사]믿다 , 생각하다
+
+genetic code -> 유전 암호[부호]
+
+turns out[turns out] -> 밝혀지다
+
+wrong -> 잘못된, 틀린
+
+genome -> 유전체, 게놈
+
+mobile -> 움직일 수 있는, 이동성의; 유동성
+
+change -> 변하다
+
+over time -> 시간이경과하면서
+
+mutation -> 돌연변이
+
+environmental -> 환경적인
+
+influence -> 영향
+
+especially -> 특별히
+
+According to -> ~에 따르면
+
+recent -> 최근의
+
+discovery -> 발견
+
+single -> 단 하나의, 독신의
+
+neuron -> 신경단위, 뉴런
+
+adult -> 어른, 성인
+
+brain -> 뇌, 두뇌
+
+thousand -> 천
+
+present -> 현재
+
+surround -> 둘러싸다, 에워싸다
+
+percent -> 퍼센트, 백분율
+
+human -> 인간
+
+made up of -> ~로 구성되다
+
+virus -> 바이러스
+
+once -> 한번
+
+infect -> 감염시키다
+
+ancestor -> 조상, 선조
+
+merge -> 융합, 합병하다
+
+Mitochondria -> 미토콘드리아
+
+power plant[power plants] -> 발전소
+
+average -> 평균의
+
+hundreds of -> 수백의
+
+confusing -> 혼동시키는, 당황하게 하는
+
+backtrack -> 손을 떼다, 철회하다, 물러나다
+
+a bit -> 약간, 조금
+
+trillions of -> 수 조개의
+
+static -> 정적인
+
+dynamic -> 활발한, 역동적인
+
+composition -> 구성, 작곡, 작문
+
+condition -> 상태, 조건
+
+self-sustaining -> 자립적인
+
+pattern -> 모범, 모형
+
+without -> ~없이
+
+clear -> 분명한
+
+border -> 경계
+
+gain -> 얻다, 획득하다
+
+self-awareness -> 자각, 자기인식
+
+point -> 점
+
+ability -> (~을) 할 수 있음, 능력, 재능, 기량
+
+itself -> 그 자체
+
+time -> 시간
+
+space -> 공간, 우주
+
+really -> 정말로
+
+exact -> 정확한, 정밀한
+
+very moment -> 지금 이 순간에.
+
+start -> 시작하다
+
+conception -> 이해, 파악
+
+arise[arose] -> 일어나다, 발생하다
+
+conquer -> 정복하다, 극복하다
+
+planet -> 행성, 유성
+
+make up -> 구성하다
+
+forge -> 구축하다
+
+star -> 별
+
+evolve -> 발전하다, 진화하다
+
+deal with -> ~을 다루다
+
+absolute -> 절대적인, 완전한
+
+fuzzy -> 희미한, 불명확한
+
+reality -> 사실, 진실, 현실
+
+hard to -> ~하기 어렵다
+
+grasp -> 이해하다, 붙잡다
+
+idea -> 아이디어
+
+like -> ⓥ좋아하다 ⓟ~같은(한정적)
+
+beginning -> 시작
+
+end -> 끝
+
+death -> 죽음
+
+belong -> ~에 속하다
+
+fluent -> 유창한, 능변의
+
+lost in -> ~에 빠져 있다
+
+strange -> 이상한, 낯선
+
+beautiful -> 아름다운
+
+universe -> 우주, 전 세계
+
+mind -> 마음
+
+just -> 그냥, 단지
+
+divide -> 나누다, 분할하다
+
+separate -> 분리하다
+
+while -> ~하는 동안, ~인 반면
+
+skull -> 두개골
+
+Click -> 딸깍 소리나게 하다, 클릭, 클릭하다
+
+channel -> 채널
+
+not yet -> 아직
+
+subscribe -> 정기 구독하다
